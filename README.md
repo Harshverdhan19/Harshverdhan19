@@ -5,12 +5,17 @@
   </a>
 </p>
 
-# Harshverdhan Shukla 👋
-
-...
-
-
 ## 👨‍💻 Software Engineer & Aspiring IT Specialist
+
+# About Me
+<p align="left">
+  <a href="https://linkedin.com/in/harshverdhan-shukla-006423160">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+
+</p>
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)]([https://drive.google.com/uc?export=download&id=1RfOahXIurzuzAFKjBfGXNBJ6-FfZL1_P](https://drive.google.com/file/d/1RfOahXIurzuzAFKjBfGXNBJ6-FfZL1_P/view?usp=drive_link))
+
 
 - 🎓 **Education**: Pursuing an M.S. in Information Technology at Arizona State University, with a focus on Software Design & Security.
 - 🛠 **Tech Stack**: Skilled in Python, JavaScript, React, Django, Flask, Java, C++, SQL, Pandas, NumPy, Linux, HTML5, CSS.
