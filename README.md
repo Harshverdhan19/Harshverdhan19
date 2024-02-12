@@ -45,8 +45,11 @@ This project encapsulates a cutting-edge SaaS platform designed to serve as an A
 
 ### Connect with Me
 
-- LinkedIn: [harshverdhan-shukla](https://linkedin.com/in/harshverdhan-shukla-006423160)
-- Email: hshukla6@asu.edu
+<p align="left">
+  <a href="mailto:hshukla6@asu.edu">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
