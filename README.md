@@ -1,4 +1,4 @@
-# Harshverdhan Shukla
+# Hi 👋 I'm Harshverdhan Shukla
 
 ## 👨‍💻 Software Engineer & Aspiring IT Specialist
 
