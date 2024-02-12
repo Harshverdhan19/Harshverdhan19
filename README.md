@@ -12,8 +12,11 @@
   <a href="https://linkedin.com/in/harshverdhan-shukla-006423160">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
+  <a href="https://drive.google.com/uc?export=download&id=1RfOahXIurzuzAFKjBfGXNBJ6-FfZL1_P">
+    <img alt="Download Resume" src="https://img.shields.io/badge/-Download%20Resume-blue?style=flat-square&logo=AdobeAcrobatReader&logoColor=white" />
+  </a>
 </p>
-[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/uc?export=download&id=1RfOahXIurzuzAFKjBfGXNBJ6-FfZL1_P)
+
 
 
 - 🎓 **Education**: Pursuing an M.S. in Information Technology at Arizona State University, with a focus on Software Design & Security.
